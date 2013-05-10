@@ -13,16 +13,16 @@ My second project delves into node.js and WebRTC to create a collaborative text 
 
 #Skills
 
-*Ruby
-*Rails
-*SQL
-*Javascript
-*jQuery
-*d3.js
-*Backbone.js
-*node.s
-*R
-*Matlab
-*Git
+* Ruby
+* Rails
+* SQL
+* Javascript
+* jQuery
+* d3.js
+* Backbone.js
+* node.s
+* R
+* Matlab
+* Git
 
 Check out my [Github](https://github.com/EricLin2004)
